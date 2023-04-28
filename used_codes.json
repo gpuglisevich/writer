@@ -1,0 +1,18 @@
+[
+  {
+    "code": "ABC123",
+    "won": false
+  },
+  {
+    "result": "perdido",
+    "timestamp": "2023-04-28T16:29:10.095Z"
+  },
+  {
+    "result": "perdido",
+    "timestamp": "2023-04-28T16:29:18.226Z"
+  },
+  {
+    "result": "perdido",
+    "timestamp": "2023-04-28T16:29:22.822Z"
+  }
+]
